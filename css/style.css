@@ -1,0 +1,25 @@
+h1{
+
+}
+article img{
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+article h3{
+  font-size: 2em;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid black;
+}
+p{
+  text-align: justify;
+}
+.princ,.blague,.bottom-right{
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  box-sizing: border-box;
+}
+.bottom-right div[class*="col-md-12"]{
+  border-bottom: 1px solid black;
+}
